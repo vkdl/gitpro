@@ -1,4 +1,4 @@
-,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+,age,zsex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,ztarget
 0,63,male,3,145,233,1,0,150,0,2.3,0,0,1,yes
 1,37,male,2,130,250,0,1,187,0,3.5,0,0,2,yes
 2,41,female,1,130,204,0,0,172,0,1.4,2,0,2,yes
